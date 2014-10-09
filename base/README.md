@@ -7,7 +7,7 @@ This is a base Docker image for [HDP](http://www.hortonworks.com/) running on
 Build
 ---
 
-    # docker build -t `whoami`/hdp-ubuntu-base .
+    # docker build -t $(whoami)/hdp-ubuntu-base .
 
 Usage
 ---
